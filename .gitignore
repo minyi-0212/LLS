@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+x64
+Debug
+*.filters
+*.sdf
+.vs
+*.opensdf
+*.user
+release
+*.zip
+*.tar.gz
+
+*.db
+*.opendb
