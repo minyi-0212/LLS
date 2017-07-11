@@ -33,6 +33,7 @@
 
 x64
 Debug
+scan
 *.filters
 *.sdf
 .vs
@@ -44,3 +45,4 @@ release
 
 *.db
 *.opendb
+*.csv
